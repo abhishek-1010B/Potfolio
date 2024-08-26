@@ -19,7 +19,7 @@ body {
 }
 
 body#back {
-    background-image: url("/img/slider/back.jpg");
+   background-image: url("/img/slider/back.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
