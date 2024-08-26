@@ -5,7 +5,7 @@ html {
     padding: 0;
     margin: 0
 }
-  
+
 body {
     font-family: mulish;
     font-size: 15px;
@@ -17,12 +17,13 @@ body {
     color: #767676;
 
 }
+
 body#back {
     background-image: url("/img/slider/back.jpg");
     height: 100%;
-    background-position: center center;
+    background-position: center;
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size: cover;
 }
 
 svg {
